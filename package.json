@@ -1,0 +1,9 @@
+{
+  "name": "Gun-React",
+  "version": "1.0.0",
+  "description": "A Gun Database Pracise in React",
+  "main": "index.js",
+  "repository": "https://github.com/Yasir900aslam/Gun-React.git",
+  "author": "Yasir Aslam",
+  "license": "MIT"
+}
